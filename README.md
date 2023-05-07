@@ -52,3 +52,6 @@ cello_c_chord.instruments.append(cello)
 # Write out the MIDI data
 cello_c_chord.write('cello-C-chord.mid')
 ```
+new in this fork:
+
+functions to make midi files into vectorized data good for machine learning and analysis
